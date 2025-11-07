@@ -160,4 +160,4 @@ The `predicate` contains a JSON-encoded data with the following fields:
 Not applicable for this initial version.
 
 [Attestation]: ../README.md
-[v0.2]: vulns_0.2.md
+[v0.2]: vulns_02.md
